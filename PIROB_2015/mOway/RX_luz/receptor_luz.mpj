@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="us-ascii"?><mowayProject><type>graphic</type><properties><owner>Luis</owner><comments /><language>Assembler</language></properties><variables><variable><name>direccionTX</name><initValue>0</initValue></variable><variable><name>sensorluz</name><initValue>0</initValue></variable></variables><functions><main>Principal</main></functions></mowayProject>
